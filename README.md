@@ -1,2 +1,3 @@
 # nodesummit-beekeeper-manager
-NodeSummit beekeeper manager
+
+NodeSummit Beekeeper Manager
